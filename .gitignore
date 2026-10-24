@@ -1,33 +1,13 @@
-# Byte-compiled / optimized / DLL files
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
 __pycache__/
 *.py[cod]
-*$py.class
 
-# Distribution / packaging
-.Python
-build/
-dist/
-*.egg-info/
-
-# Virtual Environments
+# Environments
+.env
 .venv/
 env/
 venv/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-# Datasets and model checkpoints
-data/raw/*
-!data/raw/.gitkeep
-models/*.pkl
-models/*.h5
-models/*.pt
-models/*.onnx
-
-# IDE & OS
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
