@@ -64,6 +64,8 @@ Repository for Machine Learning class notes, practical implementations, datasets
 - **[`bikes.csv`](bikes.csv)** - Dataset of used bikes with specifications, mileage, power, and pricing.
 - **[`Loan_default.csv`](Loan_default.csv)** - Comprehensive loan default prediction dataset.
 - **[`cleaned_loan_dataset.csv`](cleaned_loan_dataset.csv)** - Cleaned and preprocessed dataset for loan eligibility prediction.
+- **[`train_u6lujuX_CVtuZ9i.csv`](train_u6lujuX_CVtuZ9i.csv)** - Training dataset for loan prediction.
+- **[`test_Y3wMUE5_7gLdaTN.csv`](test_Y3wMUE5_7gLdaTN.csv)** - Testing dataset for loan prediction.
 - **[`logistic_regression.pkl`](logistic_regression.pkl)** - Serialized, pre-trained Logistic Regression model saved with `joblib`.
 
 ---
